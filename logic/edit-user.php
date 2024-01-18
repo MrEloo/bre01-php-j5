@@ -34,5 +34,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $query->execute($parameters);
 }
 
-header('Location: http://localhost/bre01-php-j5/bre01-php-j5/index.php');
+header('Location: http://localhost/Mon_Projet_PDO/bre01-php-j5/');
 exit();
